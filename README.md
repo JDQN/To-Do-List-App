@@ -40,7 +40,7 @@ del baken aparte y repositorio del git aparte para poder realizar el deploying.
 
 <h2>💻 IMG 💻</h2>
 
-<img src="https://github.com/JDQN/CRUD-CITAS/blob/main/IMG1.png" />
+<img src="https://github.com/JDQN/To-Do-List-App/blob/main/To-Do-List.png" />
 
 ---
 
